@@ -1,0 +1,9 @@
+# Directory filters
+out/
+target/
+.idea/libraries/
+
+# File filters
+*.log
+*.iml
+.idea/workspace.xml

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg592"
+   sodipodi:version="0.32"
+   width="300"
+   height="460"
+   sodipodi:docname="blaze-logo.svg"
+   sodipodi:author="Aqua78"
+   inkscape:version="0.91 r13725"
+   version="1.0"
+   inkscape:export-filename="C:\Users\tl\Downloads\blaze-logo.png"
+   inkscape:export-xdpi="292.871"
+   inkscape:export-ydpi="292.871">
+  <title
+     id="title4141">Blaze Logo</title>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Blaze Logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Based on the hazard symbol for flammable/highly flammable substances according to directive 67/548/EWG by the European Chemicals Bureau.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matthias Langer</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs594" />
+  <sodipodi:namedview
+     id="base"
+     inkscape:zoom="0.24866666"
+     inkscape:cx="87.816193"
+     inkscape:cy="-452.8709"
+     inkscape:window-width="783"
+     inkscape:window-height="742"
+     inkscape:window-x="52"
+     inkscape:window-y="52"
+     inkscape:current-layer="svg592"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+     id="logo"
+     d="m 142.94504,459.47194 c 0,0 -141.29148,10.12826 -142.94504,-157.93048 39.51611,25.04053 0.15197,-67.72755 13.12364,-111.95735 0,0 13.23039,19.86887 19.84539,31.45935 6.615,11.59047 1.60588,-96.16582 47.08506,-125.969441 1.65356,22.352641 18.23912,34.902851 18.23912,34.902851 0,0 4.03912,-24.75176 15.71092,-45.532991 8.29687,-13.27977 21.29103,-30.73573 28.94091,-39.73832 C 155.34845,27.320113 162.79043,0 162.79043,0 c 0,0 15.71053,24.836076 14.05697,38.082283 -1.65394,13.246216 -9.92251,53.811996 9.09554,65.402467 3.30787,-24.008371 36.86257,-40.661511 36.86257,-40.661511 0,0 -20.3247,42.317241 18.5391,139.179081 1.65356,-26.49215 40.92373,-62.24501 40.92373,-62.24501 1.38278,114.48733 69.99235,332.36882 -72.34555,319.71463 66.15103,-57.95123 53.74774,-118.38636 53.74774,-118.38636 0,0 -6.61501,5.79536 -11.57645,5.79536 -4.96144,0 -7.44197,-51.32801 -21.49895,-57.95128 -4.96143,33.11509 4.22945,61.81493 -25.53843,84.16799 11.57644,-69.54125 -14.15233,-84.99599 -14.15233,-84.99599 0,0 -19.84539,47.18857 -25.63342,48.8445 -5.78802,1.65554 -42.17129,-59.60697 -27.28735,-112.59124 -22.32592,23.18039 -47.13236,67.88594 -29.76788,101.8285 -21.49895,-9.10617 -23.15288,-19.04088 -33.90236,-26.49159 -5.78804,12.41791 31.25059,55.28475 13.12072,71.92653 -21.34199,4.83558 -31.18051,-14.52839 -31.18051,-14.52839 0,0 -15.84257,50.22533 86.69147,102.38197 z"
+     style="fill:#c82828;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     inkscape:label="#logo" />
+</svg>

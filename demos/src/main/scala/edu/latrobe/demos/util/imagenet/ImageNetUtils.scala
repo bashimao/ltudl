@@ -23,7 +23,6 @@ import edu.latrobe.blaze._
 import edu.latrobe.sizes._
 import edu.latrobe.io._
 import java.io._
-import org.apache.spark.rdd._
 import org.json4s._
 import org.json4s.jackson._
 import org.w3c.dom._

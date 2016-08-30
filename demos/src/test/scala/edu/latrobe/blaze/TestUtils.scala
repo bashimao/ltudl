@@ -19,7 +19,6 @@
 package edu.latrobe.blaze
 
 import breeze.linalg.{DenseMatrix, DenseVector}
-import com.sun.javaws.exceptions.InvalidArgumentException
 import edu.latrobe._
 
 object TestUtils {

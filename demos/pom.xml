@@ -54,12 +54,6 @@
       <version>${project.version}</version>
     </dependency>
 
-    <dependency>
-      <groupId>edu.latrobe</groupId>
-      <artifactId>inferno</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-
     <!-- Other dependencies -->
     <dependency>
       <groupId>org.scalatest</groupId>

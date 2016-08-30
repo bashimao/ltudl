@@ -16,12 +16,11 @@ TODO: Add Presentation slides from Hadoop Summit 2016
 ```
 git clone https://github.com/bashimao/ltudl.git
 cd ltudl/scripts
-./build-demos.sh
+./build-blaze-demos.sh
 ```
 
-This will download all dependencies and compile the code. The ImageNet demo and its artefacts can be found in the subdirectory `ltudl/out`.
-
-TODO: Expand compile instructions
+This will download all dependencies, compile the code and move all the artefacts
+ to the subdirectory `ltudl/out`.
 
 
 # Prequirements
@@ -136,8 +135,17 @@ By default the demos will look for the dataset at `<working directory>/data`. Ho
 This is the hello world of neural networks. The network is simple mult-layer perceptron. We will create and train a very small network. While doing so we perform online cross validation. While not mandatory it is nice to have. After the training is complete we score it once against the entire test set.
 
 ```
+cd scripts
 export EXPERIMENT_DATA_PATH=<where you've extracted the MNIST files>
-./start-app.sh edu.latrobe.demos.mnist.SimpleMLP
+./run-blaze-demo.sh edu.latrobe.demos.mnist.SimpleMLP
+```
+
+Example:
+
+```
+cd scripts
+export EXPERIMENT_DATA_PATH=$HOME/Share/Datasets/MNIST
+./run-blaze-demo.sh edu.latrobe.demos.mnist.SimpleMLP
 ```
 
 
@@ -149,6 +157,13 @@ along with CUBlaze so far, set EXPERIMENT_FORCE_CUDA="no".
 ```
 export EXPERIMENT_DATA_PATH=<where you've extracted the MNIST files>
 ./start-app.sh edu.latrobe.demos.mnist.SimpleConvNet
+```
+
+Example
+```
+cd scripts
+export EXPERIMENT_DATA_PATH=$HOME/Share/Datasets/MNIST
+./run-blaze-demo.sh edu.latrobe.demos.mnist.SimpleConvNet
 ```
 
 
@@ -214,8 +229,7 @@ The program will expect the above mentioned directory structuree at `$HOME/$EXPE
 
 However, all this has been setup, you are ready to roll.
 
-TODO: Add Instructions how to start demo.
-
-
-
-
+```
+# Setup dataset as described above
+./run-blaze-demo.sh edu.latrobe.demos.imagenet.TrainBlazeModel
+```
